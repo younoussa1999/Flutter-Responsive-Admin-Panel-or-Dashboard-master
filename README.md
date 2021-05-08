@@ -1,6 +1,6 @@
 # Responsive Admin Panel or Dashboard - Flutter UI
 
-## [Watch it on YouTube](https://youtu.be/_uOgXpEHNbc)
+## [Watch it on YouTube](https://youtu.be/PsnYVwmXZcA)
 
 **Packages we are using:**
 
